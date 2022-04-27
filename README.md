@@ -18,10 +18,6 @@ Functionalities Supported :
 -  Accommodate the slot of the user's choice.
 -  Assign a partner at random to the user.
 - Offering a community space for users to comment and share their opinions and views  about the gym and their fitness.
-- For admin, they will be able to manage and view the slots 
-- Admin can have access to all  the registered users of the gym.
-- Admin will have the ability to manage the community pages and the reviews. 
-
 
 Technology Used :-
 
